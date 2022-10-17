@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/activites-touristique-202/static/css/main.7eb5d20c.css",
+    "main.js": "/activites-touristique-202/static/js/main.df46dd32.js",
+    "static/js/787.4a73afad.chunk.js": "/activites-touristique-202/static/js/787.4a73afad.chunk.js",
+    "index.html": "/activites-touristique-202/index.html",
+    "main.7eb5d20c.css.map": "/activites-touristique-202/static/css/main.7eb5d20c.css.map",
+    "main.df46dd32.js.map": "/activites-touristique-202/static/js/main.df46dd32.js.map",
+    "787.4a73afad.chunk.js.map": "/activites-touristique-202/static/js/787.4a73afad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eb5d20c.css",
+    "static/js/main.df46dd32.js"
+  ]
+}
